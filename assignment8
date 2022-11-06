@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="stylesheet" href="main.css">
+  
+	<title>Also give this page an appropriate title.</title>
+</head>
+
+  
+  <header> HTML/CSS Assignment #1 <br> Source: <a href="https://www.vogue.com/article/selena-gomez-my-mind-and-me-documentary-interview">Visit Vogue.com</a> </header>
+  
+  <h6>
+  CULTURE </h6>
+  <h1>Selena Gomez on the Powerful Vulnerability of Her New Documentary</h1>
+  
+  <h2> BY CHLOE SCHAMA </h2>
+  
+  <h3> November 1, 2022 </h3>
+  
+  <div class="mainimg">
+    
+  </div>
+  <img src="selenamain.png">
+  <h4>Photo: Courtesy of Apple TV+ </h4>
+  
+  <body>
+  <p> There is a moment early in Selena Gomez: My Mind and Me, the new documentary premiering November 4 on Apple TV+, in which the star admits to the people gathered in her dressing room: “My body is very young.” She’s talking about the way a certain outfit emphasizes—or doesn’t—her figure, making her appear, as she puts it, “like a 12-year-old boy.” But it’s more than just an assessment of her costume; it’s also a gesture toward one of the central tensions of the star’s career and this film—the precise pressure that a self-awareness of other people’s awareness can impose. Will her fans see a shadow of the Disney star she once was? Or will they see a powerful singer in her own right? How does her clothing, behavior, performance—essentially every move she makes—contribute to the narrative that her fans and detractors are relentlessly constructing? </p>
+  
+  <p> It might seem strange that someone so conscious of that attention would choose to make a documentary about their mental health struggles, particularly with this director. Alek Keshishian first worked with Gomez on the music video for “Can’t Keep My Hands to Myself,” but he is probably best known for Madonna’s groundbreaking and intimate backstage documentary Truth or Dare (1991), which was the highest-grossing documentary of all time until Bowling for Columbine surpassed it. “I like to have access to everything,” he says when he, Gomez, and I speak via Zoom before the film’s premiere. There were moments, Gomez tells me, when she wanted to cry as she watched the final cut—not because of how exposed it made her, but because she hated that she felt the discomfort or insecurity that the film so pointedly captured. </p>
+  
+  <p> In some ways, My Mind and Me is merely a chronological recounting of the past six years of Gomez’s life: the touring, the physical and mental health crises that accelerated in those years, the cancellation of her Revival tour, a two-year pause on touring, a trip to Kenya for charitable work, the pandemic, and a trip to the White House to discuss mental health curricula in grade schools. The documentary also affords unprecedented insight into the way these events were affected by what was going on in Gomez’s head and body—most dramatically, in 2019, when she had a breakdown and was officially diagnosed with bipolar disorder. Poignantly, we see the moment Gomez decided to go public with her precise diagnosis, and the lack of hesitation she felt in doing so, spurred by her instinct that greater openness could lead to greater destigmatization.</p>
+  
+   <div class="otherimg">
+    
+  </div>
+    
+  <img src="selenaother.png">
+  <h5>Selena Gomez in Concert   Photo: Courtesy of Apple TV+
+  </h5>
+  
+  
+  <p> My Mind and Me is not an indictment of the media in the manner of Framing Britney Spears or other documentaries that have exposed the relentless pressure of being a young famous woman. But it is something of a damming document nonetheless: a catalog of the repetitive and inane questions or games Gomez is asked to answer or play. It’s all a big eye roll, but it also adds up to something more. “Such a waste of time,” she sighs after one such interview, and in her life, where every moment is milked for some larger purpose, it’s hard not to agree.
+
+ </p>
+  
+  <p> With determination not to waste her time, we sat down with Gomez and Keshishian to discuss the many years they spent making this film together and what they hope it will accomplish. </p>
+  
+  <p> Vogue: Tell me how the idea for this film came about.</p>
+  
+  <p> Alek Keshishian: I worked with Selena in 2015 on “Can’t Keep My Hands to Myself,” and then when she was going on tour in 2016, she approached me about doing a documentary. And then we decided after a few weeks that the timing didn’t feel right. I’m quite intrusive in my filmmaking insofar as I like to have access to everything. Selena was very bravely like, “No, I’ll give you that.” But after a few weeks, I just kind of felt like she was going through a lot, and to have cameras there on top of it just didn’t feel right. We stayed friends, obviously. I fell in love with her. </p>
+  
+  <p> Her Kenya trip [in 2019 with the WE Foundation] allowed us another opportunity. I said, “Let’s film a few days before.” We didn’t really know if there was going to be a bigger documentary; I think we were quite innocent about it. But we developed a closeness, and then we had this shared vision that this story could maybe help others. And that became our motivating factor as we kept shooting.</p>
+  
+	<!-- You're following instructions to add content to the <body> of this file. -->
+</body>
+</html>
+
