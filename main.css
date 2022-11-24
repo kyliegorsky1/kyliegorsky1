@@ -1,0 +1,100 @@
+body {
+  margin: 0px;
+}
+
+nav {
+  border-top: 5px solid black;
+  border-bottom: 1px solid black;
+  padding: -15px;
+  text-align: center;
+  background: whitesmoke;
+}
+
+.sitetitle {
+  color: #000000;
+  font-family: Raleway, sans-serif;
+  font-size: 40px;
+  text-transform: uppercase;
+  font-weight: bold;
+.logo 
+  width: 15px;
+}
+
+
+article {
+  margin-left: 10%;
+  margin-right:10%;
+  width: 60%;
+}
+
+header {
+    font-family: Raleway, sans-serif;
+    font-size: 20px;
+    font-style: bold;
+  }
+
+.logo {
+  width: 45%;
+  height: 45%;
+}
+
+h1 {
+  font-size: 30px;
+  font-style: italic;
+  font-style: bold;
+  font-family: Raleway, sans-serif;
+}
+
+.images {
+  width: 40%;
+  height: 65%;
+}
+
+.byline {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.tdpad {
+  padding: 15px;
+}
+
+article > p {
+  font-family: Pensum, "Times New Roman", serif;
+  font-size: 20px;
+}
+
+.story_image {
+  width: 20%;
+}
+
+.caption {
+  color: gray;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+footer {
+  margin-top: 30px;
+  font-family: Basier, Arial, sans-serif;
+  margin-left: 10%;
+  margin-right:10%;
+}
+
+footer > p {
+  font-size: 14px;
+  color: #666;
+  margin-left: 10%;
+  margin-right:10%;
+}
+
+a {
+  color: whitesmoke;
+}
+
+a:hover {
+  color: #FFFFFF;
+  text-decoration-color: #FFFFFF;
+}
+
+
